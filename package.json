@@ -50,7 +50,7 @@
     "3d-force-graph": "1",
     "3d-force-graph-ar": "1",
     "3d-force-graph-vr": "2",
-    "force-graph": "valodax/force-graph-fork",
+    "force-graph": "https://github.com/Valodax/force-graph-fork",
     "prop-types": "15",
     "react-kapsule": "2"
   },
